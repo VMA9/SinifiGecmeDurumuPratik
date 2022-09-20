@@ -30,8 +30,8 @@ public class SinifiGecme {
             System.out.println("5 Dersin Notları 0 ile 100 aralığında belirtilmelidir. ");
             System.out.println("Yanlış hesaplanmıştır !");
         } else if (avarage < 55) {
-        System.out.println("Sınıfta Kaldınız, seneye tekrar görüşmek üzere !");
-        System.out.println("Ortalama Notunuz : " + avarage);
+            System.out.println("Sınıfta Kaldınız, seneye tekrar görüşmek üzere !");
+            System.out.println("Ortalama Notunuz : " + avarage);
         }else {
             System.out.println("Tebrikler Sınıfı Geçtiniz !");
             System.out.println("Ortalama Notunuz : " + avarage);
